@@ -1,0 +1,7 @@
+txn_id,customer_id,timestamp,amount,currency,device_lat,device_lon,category,notes
+1,1001,2025-10-01T10:00:00Z,199.99,INR,11.0168,76.9558,grocery,"paid by upi"
+2,1002,2025-10-01T10:01:10Z,,INR,11.0168,76.9558,restaurant,""
+3,1003,2025-10-01T10:03:20Z,500.0,USD,NaN,NaN,electronics,"promo code FALL25"
+4,1002,2025-10-01T10:04:30Z,75.5,INR,11.0170,76.9560,transport,"auto"
+5,1004,2025-10-01T10:06:45Z,0,INR,11.0150,76.9500,other,"test"
+6,1001,2025-10-01T10:08:00Z,999.0,EUR,10.9000,76.8000,electronics,"coupon"

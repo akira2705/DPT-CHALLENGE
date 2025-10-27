@@ -1,0 +1,1 @@
+print('CDC Spark job placeholder')
