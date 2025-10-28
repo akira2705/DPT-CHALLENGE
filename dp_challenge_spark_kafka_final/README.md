@@ -28,3 +28,4 @@ python -m pyspark --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.1 sr
 # 7) (Optional) In-memory demo
 python src/inmemory/inmemory_demo.py
 
+This project demonstrates a real-time data processing and analytics pipeline using Apache Kafka, Apache Spark, and Debezium. It ingests live transaction data, cleans and normalizes it, removes duplicates, and performs real-time aggregation and machine learning analysis. The system also captures live database updates through Change Data Capture (CDC) and performs in-memory analytics for fast insights.
