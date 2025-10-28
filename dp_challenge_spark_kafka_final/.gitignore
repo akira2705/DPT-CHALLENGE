@@ -1,3 +1,9 @@
 .venv/
 __pycache__/
+*.pyc
 data/processed/
+*.iml
+*.log
+*.idea/
+.DS_Store
+.sparkStaging/
